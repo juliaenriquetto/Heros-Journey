@@ -1,0 +1,21 @@
+Integrantes do grupo:
+22125 - Eduarda Graziele de Paiva
+22139 - Julia Enriquetto de Brito
+22143 - Maria Eduarda de Jesus Padovan
+
+|| Funcionamento do jogo ||
+
+O herói (usuário) deverá perseguir o monstro e tentar o prender 
+contra as árvores, ou seja, deverá expulsá-lo da área de combate
+em um determinado tempo que será marcado pelo cronômetro.
+
+1. O herói e o monstro ficarão em uma espécie de pega-pega,
+   nesse caso, o monstro deverá fugir do herói para que este não o mate.
+
+2. O monstro ganhará quando o tempo do herói de matá-lo acabar
+   e o herói ganhará quando matar o monstro;
+
+3. O monstro permanecerá fugindo do herói até que o herói consiga
+   o expulsar da área de combate;
+
+4. A movimentação do herói se dará por meio das setinhas do teclado.
