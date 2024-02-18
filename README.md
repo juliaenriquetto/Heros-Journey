@@ -1,7 +1,7 @@
 # Heros-Journey
 > This was made in april 2023.
 
-Hero's Journey game is a project developed in the third semester of a IT course on Colégio Técnico de Campinas - Unicamp.
+Hero's Journey game is a project developed for the "Agile Software Development" class in the third semester of an IT course at Colégio Técnico de Campinas - Unicamp.
 
 ![herosjourney](https://github.com/juliaenriquetto/Heros-Journey/blob/main/heros-journey.png)
 
